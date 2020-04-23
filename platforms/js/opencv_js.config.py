@@ -1,7 +1,7 @@
 # Classes and methods whitelist
-core = {'': ['']}
+core = {'': ['flip']}
 
-imgproc = {'': ['cvtColor', 'getPerspectiveTransform', 'warpPerspective', 'resize', 'threshold']}
+imgproc = {'': ['cvtColor', 'getPerspectiveTransform', 'warpPerspective', 'resize']}
 
 objdetect = {'': ['']}
 
